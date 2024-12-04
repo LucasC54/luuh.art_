@@ -1,0 +1,46 @@
+/* Corpo e fonte */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f6f7;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ffe6f2;
+}
+
+.navbar-brand, .nav-link {
+    color: #d63384 !important;
+}
+
+.nav-link:hover {
+    color: #9c1c66 !important;
+}
+
+/* Botão principal */
+.btn-primary {
+    background-color: #d63384;
+    border-color: #d63384;
+}
+
+.btn-primary:hover {
+    background-color: #9c1c66;
+    border-color: #9c1c66;
+}
+
+/* Cards */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #d63384;
+}
+
+/* Footer */
+footer {
+    background-color: #ffe6f2;
+    color: #d63384;
+}

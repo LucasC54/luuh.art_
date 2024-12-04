@@ -1,0 +1,38 @@
+<!-- Serviços -->
+  <section id="servicos" class="py-5 bg-light">
+    <div class="container">
+      <h2 class="text-center mb-4">Nossos Serviços</h2>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card">
+            <img src="" class="card-img-top" alt="Serviço 1">
+            <div class="card-body">
+              <h5 class="card-title">Retratos vetorizados</h5>
+              <p class="card-text">Crie uma homenagem única e exclusiva para quem você quiser.</p>
+              <a href="#" class="btn btn-primary">Saiba Mais</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <img src="" class="card-img-top" alt="Serviço 2">
+            <div class="card-body">
+              <h5 class="card-title">Design de personagem</h5>
+              <p class="card-text">Aqui você pode dar vida a sua imaginação.</p>
+              <a href="#" class="btn btn-primary">Saiba Mais</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <img src="" class="card-img-top" alt="Serviço 3">
+            <div class="card-body">
+              <h5 class="card-title">Artesanato em biscuit</h5>
+              <p class="card-text">Aqui você também encontra arte em forma de biscui.</p>
+              <a href="#" class="btn btn-primary">Saiba Mais</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

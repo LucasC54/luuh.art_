@@ -1,0 +1,37 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Cinzel', serif;
+}
+
+.hero-section {
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.card {
+    background-color: #222;
+    border: 1px solid #444;
+}
+
+.card-img-top {
+    filter: grayscale(100%) sepia(100%);
+}
+
+h1, h2 {
+    font-family: 'Uncial Antiqua', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    background-color: #000;
+    color: #ddd;
+    text-align: center;
+    padding: 20px;
+}
+
+.btn-danger {
+    background-color: #c0392b;
+    border: none;
+}
